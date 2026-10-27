@@ -67,10 +67,10 @@
   "token-tooltip-alt.tooltipEditorGm.settingsHeader": "Настройки",
   "token-tooltip-alt.tooltipEditorGm.settings.displayName.name": "Отображение названия",
   "token-tooltip-alt.tooltipEditorGm.settings.displayName.hint": "Отобразить название токена в подсказке.",
-  "token-tooltip-alt.tooltipEditorGm.settings.useAccentEverywhere.name": "Use accent color everywhere",
-  "token-tooltip-alt.tooltipEditorGm.settings.useAccentEverywhere.hint": "Use the accent color everywhere instead of the custom colors.",
-  "token-tooltip-alt.tooltipEditorGm.settings.accentColor.name": "Accent color",
-  "token-tooltip-alt.tooltipEditorGm.settings.accentColor.hint": "Set an accent color for the border and title.",
+  "token-tooltip-alt.tooltipEditorGm.settings.useAccentEverywhere.name": "Везде использовать акцентный цвет",
+  "token-tooltip-alt.tooltipEditorGm.settings.useAccentEverywhere.hint": "езде использовать акцентный цвет, вместо пользовательских цветов.",
+  "token-tooltip-alt.tooltipEditorGm.settings.accentColor.name": "Акцентный цвет",
+  "token-tooltip-alt.tooltipEditorGm.settings.accentColor.hint": "Задать акцентный цвет для границ подсказки и названия.",
 
 
 
